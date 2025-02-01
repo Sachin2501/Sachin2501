@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin2501&label=Profile%20views&color=0e75b6&style=flat" alt="sachin2501" /> </p>
 
-- 🌱 I’m currently learning **📚 Full-Stack Development ,Data Structure ,🤖 Artificial Intelligence & ML**
+- 🌱 I’m currently learning : **📚 Full-Stack Development , Data Structure Algorithms ,🤖 Artificial Intelligence & ML**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sachin-kumar-a81238320](https://www.linkedin.com/in/sachin-kumar-a81238320)
+- 👨‍💻 All of my projects are available at : [https://www.linkedin.com/in/sachin-kumar-a81238320](https://www.linkedin.com/in/sachin-kumar-a81238320)
 
-- 📫 How to reach me **sachinkumar.gheura@gmail.com**
+- 📫 How to reach me : **sachinkumar.gheura@gmail.com**
 
-- ⚡ Fun fact **I'm Funny😊😒**
+- ⚡ Fun fact : **I'm Funny😊😒**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
