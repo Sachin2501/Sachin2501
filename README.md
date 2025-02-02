@@ -1,3 +1,4 @@
+![logo](https://github.com/Sachin2501/Sachin2501/blob/main/gitHub%20photo.jpg)
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin2501&label=Profile%20views&color=0e75b6&style=flat" alt="sachin2501" /> </p>
