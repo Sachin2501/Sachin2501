@@ -144,6 +144,43 @@ I'm open to **open source contributions**, **hackathon teams** and **internship 
 
 ---
 
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="assets/dev-quote.svg" width="700" alt="Rotating developer quotes" />
+</p>
+
+---
+
+## 💼 Hire Me / Contact
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="560">
+
+### Let's build something together 🚀
+
+Software Engineer and Full Stack Developer open to **internships**, **freelance projects** and **hackathon teams**.<br/>
+Have an idea or an opportunity? Drop me a message!
+
+<br/>
+
+<a href="mailto:sachinkumar.gheura@gmail.com?subject=Hello%20Sachin"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/sachin-kumar-sharma2501"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://sachin2501.github.io/portfolio_website.io/"><img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+<br/><br/>
+
+📧 **sachinkumar.gheura@gmail.com**
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -196,43 +233,6 @@ I'm open to **open source contributions**, **hackathon teams** and **internship 
 </table>
 
 <p align="center"><a href="https://github.com/Sachin2501?tab=repositories">View all repositories →</a></p>
-
----
-
-## 💡 Dev Quote
-
-<p align="center">
-  <img src="assets/dev-quote.svg" width="700" alt="Rotating developer quotes" />
-</p>
-
----
-
-## 💼 Hire Me / Contact
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="560">
-
-### Let's build something together 🚀
-
-Software Engineer and Full Stack Developer open to **internships**, **freelance projects** and **hackathon teams**.<br/>
-Have an idea or an opportunity? Drop me a message!
-
-<br/>
-
-<a href="mailto:sachinkumar.gheura@gmail.com?subject=Hello%20Sachin"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/sachin-kumar-sharma2501"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://sachin2501.github.io/portfolio_website.io/"><img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
-<br/><br/>
-
-📧 **sachinkumar.gheura@gmail.com**
-
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
